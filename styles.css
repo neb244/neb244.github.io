@@ -1,6 +1,9 @@
-h1{
-    text-align:center;
-    text-transform:capitalize;
-    color:brown;
+body{
     background-color:beige;
+}
+h1{
+        text-align:center;
+        text-transform:capitalize;
+        color:brown;
+        background-color:beige;
 }
